@@ -20,6 +20,8 @@ public class hallo {
 		//MyHomework1 objMyHomework4=new MyHomework1();
 		//objMyHomework4.NestedStatements();
 		homework objhomework = new homework;
+        i cheng the code
+i am not doing well
 	}
 
 }
